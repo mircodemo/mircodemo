@@ -14,8 +14,6 @@ I'm **Mirco Demo**, a tech enthusiast with a strong passion for cybersecurity, a
 
 ## 🛠️ Skills & Technologies
 
-## 🛠️ Skills & Technologies
-
 🖥️ **Linux**, 🪟 **WSL2**, ⚙️ **Ansible**, 🧩 **PowerShell**, 🌐 **Web Dev**, 🧬 **Git**  
 🐍 **Python**, 🔗 **Microsoft Graph API**, 🚦 **Nginx**, 🔥 **Apache**, 🐚 **Bash**
 📝 **Markdown** and **much more...**
